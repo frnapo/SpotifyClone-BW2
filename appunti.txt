@@ -1,0 +1,14 @@
+- Barra laterale destra “attività amici” offcanvas
+- sezione playlist e attività amici con contenuti statici (quindi non fetch)
+- ! capire come fare sezione playlist estensibile
+- player dinamico che compare al play della canzone (offcanvas da bottom)
+- get per estrarre contenuto main
+- main creato prima in html e bootstrap e poi quando finito importato in js come template literal
+- Endpoint: /search?q={query} Esempio: https://deezerdevs-deezer.p.rapidapi.com/search?q="eminem"
+- integrare sass bootstrap 5.2.3
+
+
+
+- z-index buttons top pagina
+- avanzamento barra riproduzione
+- 
